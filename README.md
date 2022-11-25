@@ -1,7 +1,7 @@
 # Proyecto-Inteligencia-Artificial
 
 La finalidad de este proyecto es desarrollar una maquina inteligente que sea capaz de jugar
-al juego que se propone más en adelante. Se ha hecho uso de la herramienta <b>CLIPS<\b> para la implementación, un lenguaje para el desarrollo de sistemas
+al juego que se propone más en adelante. Se ha hecho uso de la herramienta <b>CLIPS</b> para la implementación, un lenguaje para el desarrollo de sistemas
 expertos.
   
  La implementación del proyecto constará de dos jugadores, uno de ellos tendrá que tomar
