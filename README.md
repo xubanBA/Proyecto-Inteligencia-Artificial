@@ -1,6 +1,15 @@
 # Proyecto-Inteligencia-Artificial
 
-El juego que se va a implementar es el juego del Proximity.
+La finalidad de este proyecto es desarrollar una maquina inteligente que sea capaz de jugar
+al juego que se propone más en adelante. Se ha hecho uso de la herramienta <b>CLIPS<\b> para la implementación, un lenguaje para el desarrollo de sistemas
+expertos.
+  
+ La implementación del proyecto constará de dos jugadores, uno de ellos tendrá que tomar
+las decisiones manualmente (humano), y el otro realizará los movimientos automáticamente usando
+conocimientos inteligentes (máquina).
+
+
+El juego implementado es el juego del Proximity:
 
 Proximity es un juego de estrategia que se juega por turnos, creado por Brian Cable. Este
 juego, se podría decir que es una mezcla entre el Risk y Go. Es un juego simple de aprender.
@@ -15,3 +24,8 @@ colocado, el color de esa(s) ficha(s) se convierte en tu color. Sin embargo, si 
 en el tablero está situado al lado de alguna de tu(s) ficha(s), esta(s) ficha(s) que están al lado de la
 colocada incrementan en 1 su valor. El ganador es aquél jugador que tenga la suma más grande de
 los pesos de las fichas de su color sobre el tablero al finalizar la partida.
+
+La partida continuaría hasta que los dos jugadores coloquen todas las fichas. Al final, el
+jugador que tenga la suma más grande de los pesos de las fichas de su color, ganaría la partida.
+
+
